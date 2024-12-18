@@ -1,3 +1,4 @@
 
 
-siape.veta.naver.com
+^[a-z]+\.veta\.naver\.com$
+
