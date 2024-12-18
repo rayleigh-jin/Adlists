@@ -1,3 +1,3 @@
 
-
-*.veta.naver.com
+# Regular expressions
+(\.|^)plastic\.net$
